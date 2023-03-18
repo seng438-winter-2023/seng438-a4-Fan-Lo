@@ -110,6 +110,7 @@ The PIT mutation test analysis gave us the number of mutants that survived, kill
 
 
 Range: our mutation score increased from 71% to 76%. The initial test suite was quite strong to begin with. From our discussion with the TA, we have concluded that the remaining mutants were in unreachable path or affected variables that were not used again within the same method. Overall, we are satisfied with our work and hope you feel the same. 
+
 DataUtilities: our mutation score increased 87% to 89%. The initial test suite had a very strong mutation coverage and so, getting it to 97% would’ve been very difficult to achieve due to the nature of some of the mutants. Timeout mutants are the most challenging to kill and there were multiple of them. 
 
 
